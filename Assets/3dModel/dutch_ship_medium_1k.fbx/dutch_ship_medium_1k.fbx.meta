@@ -3,7 +3,22 @@ guid: 631a6f331645dcf4580dee92dbbb9404
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dutch_ship_medium_hull
+    second: {fileID: 2100000, guid: 7c9c2012f1f87ef4483e5c35ad584b91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dutch_ship_medium_rigging
+    second: {fileID: 2100000, guid: 0593601f808435540a5d7563191af546, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dutch_ship_medium_sails
+    second: {fileID: 2100000, guid: 66f08e46a1d6e8e4f9826b526e7ffbb7, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
