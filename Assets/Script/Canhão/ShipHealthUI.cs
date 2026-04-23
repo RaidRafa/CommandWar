@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-namespace TrilloBit3sIndieGames
-{
+// namespace Neomax
+// {
     public class ShipHealthUI : MonoBehaviour
     {
         public Health health;
@@ -18,4 +18,4 @@ namespace TrilloBit3sIndieGames
             healthFill.fillAmount = percent;
         }
     }
-}
+//}

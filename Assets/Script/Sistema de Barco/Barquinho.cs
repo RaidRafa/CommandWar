@@ -1,8 +1,8 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-namespace TrilloBit3sIndieGames
-{
+// namespace Neomax
+// {
     [RequireComponent(typeof(Rigidbody))]
     public class Barquinho : MonoBehaviour
     {
@@ -366,4 +366,4 @@ namespace TrilloBit3sIndieGames
             Debug.Log("Barco destruído!");
         }
     }
-}
+//}

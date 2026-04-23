@@ -1,8 +1,8 @@
 ﻿using System.Collections;
 using UnityEngine;
 
-namespace TrilloBit3sIndieGames
-{
+// namespace Neomax
+// {
     public class EnemyDeath : MonoBehaviour
     {
         private Health health;
@@ -42,4 +42,4 @@ namespace TrilloBit3sIndieGames
             Destroy(gameObject);
         }
     }
-}
+//}

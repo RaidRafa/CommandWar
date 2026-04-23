@@ -1,7 +1,7 @@
 using UnityEngine;
 
-namespace TrilloBit3sIndieGames
-{
+// namespace TrilloBit3sIndieGames
+// {
     public class Bilboard_Obj : MonoBehaviour
     {
         public Transform alvo;
@@ -25,4 +25,4 @@ namespace TrilloBit3sIndieGames
             transform.rotation = Quaternion.Euler(0f, angulos.y + 180f, 0f);
         }
     }
-}
+//}

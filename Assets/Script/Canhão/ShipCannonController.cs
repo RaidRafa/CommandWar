@@ -4,8 +4,8 @@ using UnityEngine.InputSystem;
 using TMPro;
 using UnityEngine.UI;
 
-namespace TrilloBit3sIndieGames
-{
+// namespace TrilloBit3sIndieGames
+// {
     public class ShipCannonController : MonoBehaviour
     {
         public ShipCannon leftCannon;
@@ -118,4 +118,4 @@ namespace TrilloBit3sIndieGames
             }
         }
     }
-}
+//}

@@ -1,7 +1,7 @@
 using UnityEngine;
 
-namespace TrilloBit3sIndieGames
-{
+// namespace Neomax
+// {
     [RequireComponent(typeof(Rigidbody))]
     public class FlutuadorDeAgua : MonoBehaviour
     {
@@ -101,4 +101,4 @@ namespace TrilloBit3sIndieGames
             }
         }
     }
-}
+//}

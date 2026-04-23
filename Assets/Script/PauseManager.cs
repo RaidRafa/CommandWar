@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 using UnityEngine.InputSystem;
 
-namespace TrilloBit3sIndieGames
-{
+// namespace TrilloBit3sIndieGames
+// {
     public class PauseManager : MonoBehaviour
     {
         public GameObject pauseUI;
@@ -65,4 +65,4 @@ namespace TrilloBit3sIndieGames
             // Cursor.visible = false;
         }
     }
-}
+//}

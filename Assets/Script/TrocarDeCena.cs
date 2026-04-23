@@ -5,8 +5,8 @@ using UnityEngine.InputSystem;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-namespace TrilloBit3sIndieGames
-{
+// namespace Neomax
+// {
     public class TrocarDeCena : MonoBehaviour
     {
         [Header("Configuração da Cena")]
@@ -143,4 +143,4 @@ namespace TrilloBit3sIndieGames
             GetComponent<Health>().TakeDamage(999);
         }
     }
-}
+//}

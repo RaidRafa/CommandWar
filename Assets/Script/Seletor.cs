@@ -5,8 +5,8 @@ using UnityEngine.UI;
 using TMPro;
 using UnityEngine.EventSystems;
 
-namespace TrilloBit3sIndieGames
-{
+// namespace TrilloBit3sIndieGames
+// {
     public class Seletor : MonoBehaviour
     {
         public enum MenuAction
@@ -211,4 +211,4 @@ namespace TrilloBit3sIndieGames
 #endif
         }
     }
-}
+//}

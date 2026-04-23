@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 
-namespace TrilloBit3sIndieGames
-{
+// namespace TrilloBit3sIndieGames
+// {
     public class ShipCannonInimigo : MonoBehaviour
     {
         private Transform ammoTarget;
@@ -254,4 +254,4 @@ namespace TrilloBit3sIndieGames
             Gizmos.DrawLine(origin + left, origin + right);
         }
     }
-}
+//}

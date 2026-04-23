@@ -2,8 +2,8 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace TrilloBit3sIndieGames
-{
+// namespace Neomax
+// {
     public class EnemyHealthUI : MonoBehaviour
     {
         public Health health;
@@ -47,4 +47,4 @@ namespace TrilloBit3sIndieGames
             }
         }
     }
-}
+//}

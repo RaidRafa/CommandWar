@@ -1,7 +1,7 @@
 using UnityEngine;
 
-namespace TrilloBit3sIndieGames
-{
+// namespace TrilloBit3sIndieGames
+// {
     public class RotateObject : MonoBehaviour
     {
         public float rotationSpeed = 30.0f; // Velocidade de rotação em graus por segundo
@@ -18,4 +18,4 @@ namespace TrilloBit3sIndieGames
             transform.Rotate(rotationAxis, rotationAngle);
         }
     }
-}
+//}

@@ -4,8 +4,8 @@ using UnityEngine;
 using TMPro;
 using UnityEngine.InputSystem;
 
-namespace TrilloBit3sIndieGames
-{
+// namespace TrilloBit3sIndieGames
+// {
     public class ShipCannon : MonoBehaviour
     {
         [Header("Referências")]
@@ -279,4 +279,4 @@ namespace TrilloBit3sIndieGames
             Gizmos.DrawLine(origin + left, origin + right);
         }
     }
-}
+//}

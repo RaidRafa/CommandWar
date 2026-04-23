@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
-namespace TrilloBit3sIndieGames
-{
+// namespace TrilloBit3sIndieGames
+// {
     public class HealthPickup : MonoBehaviour
     {
         [Header("Configuração")]
@@ -72,4 +72,4 @@ namespace TrilloBit3sIndieGames
             }
         }
     }
-}
+//}

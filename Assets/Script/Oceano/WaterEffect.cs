@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
-namespace TrilloBit3sIndieGames
-{
+// namespace Neomax
+// {
     [RequireComponent(typeof(MeshFilter))]
     public class WaterEffect : MonoBehaviour
     {
@@ -91,4 +91,4 @@ namespace TrilloBit3sIndieGames
             return transform.TransformPoint(new Vector3(0, bestY, 0)).y;
         }
     }
-}
+//}

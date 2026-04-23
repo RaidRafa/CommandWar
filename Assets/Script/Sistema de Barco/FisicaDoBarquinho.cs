@@ -1,7 +1,7 @@
 using UnityEngine;
 
-namespace TrilloBit3sIndieGames
-{
+// namespace Neomax
+// {
     public class FisicaDoBarquinho : MonoBehaviour
     {
         void Update() { if (Time.timeScale == 0f) return; }
@@ -103,4 +103,4 @@ namespace TrilloBit3sIndieGames
             return center;
         }
     }
-}
+//}

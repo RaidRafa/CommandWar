@@ -1,8 +1,7 @@
 ﻿using UnityEngine;
-using TrilloBit3sIndieGames;
 
-namespace TrilloBit3sIndieGames
-{
+// namespace TrilloBit3sIndieGames
+// {
     public class CannonballDamage : MonoBehaviour
     {
         public float damage = 25f;
@@ -21,4 +20,4 @@ namespace TrilloBit3sIndieGames
             Destroy(gameObject);
         }
     }
-}
+//}

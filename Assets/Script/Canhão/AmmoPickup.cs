@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
-namespace TrilloBit3sIndieGames
-{
+// namespace TrilloBit3sIndieGames
+// {
     public class AmmoPickup : MonoBehaviour
     {
         [Header("Configuração")]
@@ -62,4 +62,4 @@ namespace TrilloBit3sIndieGames
             transform.localScale = originalScale; // garante valor final exato
         }
     }
-}
+//}

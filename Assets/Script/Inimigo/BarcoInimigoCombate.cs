@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
-namespace TrilloBit3sIndieGames
-{
+// namespace TrilloBit3sIndieGames
+// {
     [RequireComponent(typeof(Rigidbody))]
     public class BarcoInimigoCombate : MonoBehaviour
     {
@@ -520,4 +520,4 @@ namespace TrilloBit3sIndieGames
             Gizmos.DrawWireSphere(transform.position, sideViewDistance);
         }
     }
-} 
+//} 

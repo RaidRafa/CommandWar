@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 using System;
 
-namespace TrilloBit3sIndieGames
-{
+// namespace Neomax
+// {
     public class Health : MonoBehaviour
     {
         public float maxHealth = 100f;
@@ -44,4 +44,4 @@ namespace TrilloBit3sIndieGames
             OnDeath?.Invoke(); // avisa quem estiver ouvindo
         }
     }
-}
+//}
