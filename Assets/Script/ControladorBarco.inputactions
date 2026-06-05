@@ -1,0 +1,56 @@
+{
+    "name": "ControladorBarco",
+    "maps": [
+        {
+            "name": "Barco",
+            "id": "6f608a25-6d40-4c2c-aca8-ed70c7e4a660",
+            "actions": [
+                {
+                    "name": "Look",
+                    "type": "Value",
+                    "id": "51c7c6f7-93af-4ff3-8ce8-8400af00f7c3",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "6db2c7e3-e53f-4fdc-9f3c-a5e8cdb4717a",
+                    "path": "<Mouse>/delta",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Look",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "115c554e-ab01-4657-b4d8-c069e9c3ab95",
+                    "path": "<XInputController>/rightStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Look",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c481ba50-7f3f-4335-96ce-45637a0a4eb3",
+                    "path": "<DualShockGamepad>/rightStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Look",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
